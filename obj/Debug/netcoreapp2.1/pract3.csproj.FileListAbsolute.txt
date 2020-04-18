@@ -29,7 +29,6 @@ C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.genruntimeconf
 C:\Users\sulta\source\repos\pract3\bin\Debug\netcoreapp2.1\pract3.pdb
 C:\Users\sulta\source\repos\pract3\bin\Debug\netcoreapp2.1\pract3.Views.dll
 C:\Users\sulta\source\repos\pract3\bin\Debug\netcoreapp2.1\pract3.Views.pdb
-C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.csproj.CoreCompileInputs.cache
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.Views.pdb
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.dll
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.pdb
@@ -43,3 +42,4 @@ C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_S
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sulta\source\repos\pract3\obj\Debug\netcoreapp2.1\pract3.csproj.CoreCompileInputs.cache
